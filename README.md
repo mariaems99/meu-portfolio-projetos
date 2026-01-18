@@ -34,6 +34,7 @@ Atualmente estou focada em aprofundar os meus conhecimentos em **Python** . Tamb
 - [🎮 Jogo Pedra, Papel e Tesoura](https://github.com/mariaems99/Jogo-pedra-papel-e-tesoura)
 - [🐍 Curso Python Do Zero Ao Avançado](https://github.com/mariaems99/Curso_Python_Do_Zero_Ao_Avancado)
 - [🤖 Python Do Básico Às Aplicações de IA](https://github.com/mariaems99/Python-Do-Basico-A-Aplicacoes-de-IA)
+- [🤔Jogo_adivinhacao](https://github.com/mariaems99/Jogo_adivinhacao.git)
 </details>
 
 <details>
