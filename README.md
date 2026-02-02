@@ -35,6 +35,7 @@ Atualmente estou focada em aprofundar os meus conhecimentos em **Python** . Tamb
 - [🐍 Curso Python Do Zero Ao Avançado](https://github.com/mariaems99/Curso_Python_Do_Zero_Ao_Avancado)
 - [🤖 Python Do Básico Às Aplicações de IA](https://github.com/mariaems99/Python-Do-Basico-A-Aplicacoes-de-IA)
 - [🤔Jogo_adivinhacao](https://github.com/mariaems99/Jogo_adivinhacao.git)
+- [Sistema Bancário](https://github.com/mariaems99/sistema-bancario.git)
 </details>
 
 <details>
