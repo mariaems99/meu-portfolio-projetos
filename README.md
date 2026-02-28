@@ -58,6 +58,14 @@ Atualmente estou focada em aprofundar os meus conhecimentos em **Python** . Tamb
 - [🎮 Dashboard de Vendas Xbox](https://github.com/mariaems99/dashboard_de_vendas_do_xbox__com_excel)
 </details>
 
+<details>
+<summary><b><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> SQL (Clique para expandir)</b></summary>
+<br/>
+  
+- [🔍 Exercícios SQL](https://github.com/mariaems99/exercicios-sql)
+
+</details>
+
 ---
 
 ### 📫 Entre em contato comigo:
