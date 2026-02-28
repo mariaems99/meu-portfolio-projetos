@@ -2,7 +2,8 @@
 
 ### 🎓 Estudante de tecnologia
 
-Atualmente estou focada em aprofundar os meus conhecimentos em **Python** . Também desenvolvi soluções práticas utilizando **Excel** para análise e organização de dados.
+Tenho conhecimentos em **HTML, CSS, Java, Python e Excel**.  
+Atualmente estou **aprendendo SQL** para ampliar minhas habilidades em bancos de dados.
 
 ---
 
