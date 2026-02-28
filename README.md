@@ -44,6 +44,9 @@ Atualmente estou focada em aprofundar os meus conhecimentos em **Python** . Tamb
 
 - [👗 Mirror Fashion](https://github.com/mariaems99/mirror-fashion)
 - [🌐 Ferramentas de Desenvolvimento Web](https://github.com/mariaems99/disciplina_ferramentas_de_desenvolvimento_web)
+- [Página de Receitas](https://github.com/mariaems99/pagina-de-receitas.git)
+- [Projeto Livraria](https://github.com/mariaems99/projeto-livraria.git)
+- [Agência de Viagens](https://github.com/mariaems99/agencia-de-viagens.git)
 </details>
 
 <details>
